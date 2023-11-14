@@ -6,6 +6,7 @@ QuickQuorum is a Web App designed and developed by CS++ as an internal replaceme
 - [ ] Support for Mobiles
 - [ ] High-speed backend
 - [ ] API
+- [ ] Availability storing for quick meeting time assembly
 
 ## Case Studies
 [When2Meet](https://when2meet.com/)
